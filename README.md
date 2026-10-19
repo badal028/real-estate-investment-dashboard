@@ -13,6 +13,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+The source is at [github.com/badal028/real-estate-investment-dashboard](https://github.com/badal028/real-estate-investment-dashboard). The live demo is [real-estate-investment-dashboard-seven.vercel.app](https://real-estate-investment-dashboard-seven.vercel.app).
+
 ```bash
 npm test
 npm run lint
